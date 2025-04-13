@@ -1,0 +1,8 @@
+
+{
+  "name": "Meera Assistant",
+  "description": "A virtual assistant powered by OpenAI ChatGPT, running inside a Farcaster Frame.",
+  "version": "1.0.0",
+  "homepage": "https://your-vercel-deployment-url.vercel.app",
+  "developer": "Your Name or Alias"
+}
