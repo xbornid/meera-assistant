@@ -1,4 +1,3 @@
-
 export const metadata = {
   title: 'Meera Assistant',
   description: 'A virtual assistant powered by ChatGPT.',
